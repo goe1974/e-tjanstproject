@@ -12,7 +12,7 @@ namespace WcfService1
     // NOTE: In order to launch WCF Test Client for testing this service, please select Service1.svc or Service1.svc.cs at the Solution Explorer and start debugging.
     public class Debit : IDebit
     {
-        public int Debitera()
+        public int Debitera1()
         {
             return 100;
         }
