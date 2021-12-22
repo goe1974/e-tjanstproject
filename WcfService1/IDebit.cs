@@ -14,7 +14,7 @@ namespace WcfService1
     {
 
         [OperationContract]
-        int Debitera();
+        int Debitera1();
         
     }
 
