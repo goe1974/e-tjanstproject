@@ -1,5 +1,6 @@
 # e-tjanstproject
 ETB310-2021-UPPGIFT
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
